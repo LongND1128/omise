@@ -1,0 +1,140 @@
+2018-04-30T15:30:38+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:90
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-04-30T15:35:05+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:90
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:30:10+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:31:50+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:33:29+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:34:03+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:37:50+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:41:46+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T02:53:26+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T04:45:19+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T09:44:49+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T09:45:32+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T09:45:42+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T09:46:55+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T09:48:01+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-01T09:50:42+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/index.php:86
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#3 {main}
+  thrown
+
+2018-05-13T14:22:52+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on null in /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/sidebar.php:35
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/public_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/public_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/public_html/wp-includes/general-template.php(110): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/public_html/wp-content/themes/netsa.vn/taxonomy-product_cat.php(30): get_sidebar()
+#4 /home/omisevn/domains/omise.vn/public_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/public_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/public_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+

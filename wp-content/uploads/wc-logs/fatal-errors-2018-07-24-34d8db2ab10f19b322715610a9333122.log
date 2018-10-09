@@ -1,0 +1,142 @@
+2018-07-24T09:56:51+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:93
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T09:57:21+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/footer.php:65
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(22): get_footer()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T09:58:16+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:93
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T09:58:18+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:93
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T10:00:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:93
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T10:00:38+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:93
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T10:19:31+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/footer.php:65
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(22): get_footer()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T10:20:11+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/footer.php:65
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(22): get_footer()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T10:32:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function my_header_add_to_cart_fragment(), 0 passed in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php on line 94 and exactly 1 expected in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/inc/woocomere.php:167
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php(94): my_header_add_to_cart_fragment()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once('/home/omisevn/d...')
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#4 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page.php(1): get_header()
+#5 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#6 /home/o
+
+2018-07-24T11:25:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:93
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page-thanh-toan.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T11:25:47+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_sidenav' not found in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/header.php:128
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(41): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page-thanh-toan.php(1): get_header()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+
+2018-07-24T11:26:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_cart_content_number() in /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/footer.php:65
+Stack trace:
+#0 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(688): require_once()
+#1 /home/omisevn/domains/omise.vn/private_html/wp-includes/template.php(647): load_template('/home/omisevn/d...', true)
+#2 /home/omisevn/domains/omise.vn/private_html/wp-includes/general-template.php(76): locate_template(Array, true)
+#3 /home/omisevn/domains/omise.vn/private_html/wp-content/themes/netsa.vn/page-thanh-toan.php(24): get_footer()
+#4 /home/omisevn/domains/omise.vn/private_html/wp-includes/template-loader.php(74): include('/home/omisevn/d...')
+#5 /home/omisevn/domains/omise.vn/private_html/wp-blog-header.php(19): require_once('/home/omisevn/d...')
+#6 /home/omisevn/domains/omise.vn/private_html/index.php(17): require('/home/omisevn/d...')
+#7 {main}
+  thrown
+

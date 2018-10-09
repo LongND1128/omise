@@ -1,0 +1,10 @@
+AuthName "nhap thong tin dang nhap"
+AuthUserFile /home/longdaic/domains/longdaicat.com/.htpasswd/public_html/beta/wp-admin/.htpasswd
+AuthGroupFile /dev/null
+AuthType basic
+require user netsa
+<Files admin-ajax.php>
+Order allow,deny
+Allow from all
+Satisfy any 
+</Files>

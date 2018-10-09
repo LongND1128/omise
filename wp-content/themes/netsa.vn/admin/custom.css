@@ -1,0 +1,12 @@
+.tcb_post_thumb img{
+	max-width: 100%;
+	max-height: 150px;
+}
+.wpdberror, {
+	position:absolute;
+	top:0px;
+	left:-9999px;
+}
+#toplevel_page_scan, #wp-version-message, #toplevel_page_woocommerce ul li:last-child,#toplevel_page_woocommerce ul li:nth-child(6),#toplevel_page_woocommerce ul li:nth-child(3),#wp-admin-bar-wpseo-menu, #wp-admin-bar-new-content, #menu-media, #toplevel_page_WP-Optimize, #toplevel_page_reslider, #menu-dashboard, #menu-plugins, #menu-tools, #menu-appearance, #toplevel_page_wpcf7, #menu-settings, #toplevel_page_wpseo_dashboard, #menu-comments, .update-nag, #wpfooter,#contextual-help-link-wrap,  #menu-users, .wp-menu-separator, #menu-dashboard .wp-submenu, #wp-admin-bar-wp-logo, #toplevel_page_revslider, #wp-admin-bar-comments, #wp-admin-bar-updates, #toplevel_page_ultimate-tinymce, #toplevel_page_edit-post_type-acf, #toplevel_page_loco{
+    display:none !important;
+}
